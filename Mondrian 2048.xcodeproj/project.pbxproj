@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F478574718E67D7700BD79FA /* CONTRIBUTING.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		F478574818E67D7700BD79FA /* favicon.ico */ = {isa = PBXFileReference; lastKnownFileType = image.ico; path = favicon.ico; sourceTree = "<group>"; };
+		F478574918E67D7700BD79FA /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		F478574A18E67D7700BD79FA /* js */ = {isa = PBXFileReference; lastKnownFileType = folder; path = js; sourceTree = "<group>"; };
+		F478574B18E67D7700BD79FA /* LICENSE.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		F478574C18E67D7700BD79FA /* meta */ = {isa = PBXFileReference; lastKnownFileType = folder; path = meta; sourceTree = "<group>"; };
+		F478574D18E67D7700BD79FA /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
+		F478574E18E67D7700BD79FA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		F478574F18E67D7700BD79FA /* style */ = {isa = PBXFileReference; lastKnownFileType = folder; path = style; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F478573718E6787500BD79FA = {
+			isa = PBXGroup;
+			children = (
+				F478574718E67D7700BD79FA /* CONTRIBUTING.md */,
+				F478574818E67D7700BD79FA /* favicon.ico */,
+				F478574918E67D7700BD79FA /* index.html */,
+				F478574A18E67D7700BD79FA /* js */,
+				F478574B18E67D7700BD79FA /* LICENSE.txt */,
+				F478574C18E67D7700BD79FA /* meta */,
+				F478574D18E67D7700BD79FA /* Rakefile */,
+				F478574E18E67D7700BD79FA /* README.md */,
+				F478574F18E67D7700BD79FA /* style */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F478573818E6787500BD79FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+			};
+			buildConfigurationList = F478573B18E6787500BD79FA /* Build configuration list for PBXProject "Mondrian 2048" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F478573718E6787500BD79FA;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F478573C18E6787500BD79FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F478573D18E6787500BD79FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F478573B18E6787500BD79FA /* Build configuration list for PBXProject "Mondrian 2048" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F478573C18E6787500BD79FA /* Debug */,
+				F478573D18E6787500BD79FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F478573818E6787500BD79FA /* Project object */;
+}
